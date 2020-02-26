@@ -1,0 +1,3 @@
+This is a project for learning git and bash
+The files are 
+final.dat: ...
